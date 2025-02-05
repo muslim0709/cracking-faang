@@ -1,4 +1,4 @@
-package uz.muslim.cracking.faang.neecode150.arrays_hashing;
+package uz.muslim.cracking.faang.neecode150.stack;
 
 import java.util.Stack;
 
